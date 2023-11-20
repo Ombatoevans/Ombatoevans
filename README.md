@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ombatoevans
-- 🌱 I’m currently learning Machine learnig 
-- 💞️ I’m looking to collaborate on fellow web and systems developer.
+- 👋 Hi, I’m @Ombatoevans.
+- 🌱 I’m a backend developer.
+- 💞️ I’m looking to collaborate with fellow web and systems developers around the globe.
 
 <!---
 Ombatoevans/Ombatoevans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
